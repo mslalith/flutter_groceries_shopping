@@ -1,6 +1,6 @@
 # groceries_shopping
 
-Interface by Cuberto ([Dribbble](https://dribbble.com/cuberto)).<br>
+Interface by [Cuberto](https://dribbble.com/cuberto).<br>
 [https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction](https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction)
 
 This is created as a Flutter Web project, so you can play around with the design and help me find bugs.<br>
